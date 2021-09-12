@@ -1,9 +1,9 @@
-# Pinephone-Modem-Firmware-Upgrade-Tutorial
+# Pinephone Modem Firmware Upgrade Tutorial
 Unified instructions to update Pinephone modem firmware, no SIM required
 
 This is a compilation of four sets of instructions + Googling
 
-This process was followed successfully by me on Manjaro Arm. If any modifications are needed, please submit an issue or a pull request
+This process was followed successfully by me on Manjaro ARM. If any modifications are needed, please submit an issue or a pull request
 
 https://wiki.pine64.org/wiki/PinePhone#Firmware_update
 
